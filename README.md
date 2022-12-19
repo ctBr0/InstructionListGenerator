@@ -5,7 +5,7 @@ Selected (for copyright reasons) source files of university course project. <br 
 Input: <br />
 Input program which includes variable declarations, execution statements and inputs <br />
 <br />
-Output:
+Output: <br />
 Linked list of execution instructions <br />
 <br />
 Implementation: <br />
